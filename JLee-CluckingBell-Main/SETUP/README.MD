@@ -62,3 +62,4 @@ go to "qb-core" then shared folder > jobs.lua and at least under line 4 :
 
 4 - Add images to inventory
 Go to the "Images" folder that came with the scripts simply click CTRL + A then CTRL + V go to "[qb]" > "qb-inventory" > html > images and click CTRL + C 
+support J Lee Gaming#3366
