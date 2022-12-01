@@ -605,8 +605,8 @@ RegisterNetEvent("JLee-CluckingBell:CookingStationMenu", function()
 				}
 			}
 				CookingStationMenu[#CookingStationMenu+1] = {
-				header =  "<img src=https://cdn.discordapp.com/attachments/1035092965418352641/1047628087212388412/popcornchicken.png width=30px> ".." ┇ Spicy Chicken Wrap",
-				txt = "Ingredients: <br> - Raw Chicken <br> - Wrap <br> - Lettuce <br> - Hot Sauce",
+				header =  "<img src=https://cdn.discordapp.com/attachments/1035092965418352641/1047628087212388412/popcornchicken.png width=30px> ".." ┇ Popcorn Chicken",
+				txt = "Ingredients: <br> - Raw Chicken <br> - Flour <br> - Butter ",
 				params = {
 					event = "JLee-CluckingBell:Make",
 					args = {
@@ -624,8 +624,8 @@ RegisterNetEvent("JLee-CluckingBell:CookingStationMenu", function()
 				}
 			}
 					CookingStationMenu[#CookingStationMenu+1] = {
-				header =  "<img src=https://cdn.discordapp.com/attachments/1035092965418352641/1047630031171625021/chickenburger.png width=30px> ".." ┇ Spicy Chicken Wrap",
-				txt = "Ingredients: <br> - Raw Chicken <br> - Wrap <br> - Lettuce <br> - Hot Sauce",
+				header =  "<img src=https://cdn.discordapp.com/attachments/1035092965418352641/1047630031171625021/chickenburger.png width=30px> ".." ┇ Chicken Burger",
+				txt = "Ingredients: <br> - Raw Chicken <br> - Bread Bun <br> - Lettuce ",
 				params = {
 					event = "JLee-CluckingBell:Make",
 					args = {
